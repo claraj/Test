@@ -1,10 +1,10 @@
-{ "things": [
-{
-  "name": "sdfsdfs",
-  },
-  {
-  "name": "qwerty"
-  }
-  
-]
+{ 
+  "things": [
+    {
+      "name": "sdfsdfs"
+    },
+    {
+      "name": "qwerty"
+    }
+  ]
 }
